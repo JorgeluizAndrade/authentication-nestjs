@@ -6,6 +6,9 @@ This module handles user authentication using NestJS. It provides routes for use
 
 ## AuthController
 
+
+## localhost:3000/
+
 ### 1. Signup Local User
 
 - **Route:** `/auth/local/signup`
